@@ -57,10 +57,75 @@ html, body {
     font-family: 'Titillium Web', sans-serif;
 }
 
-h1, h2, h3, h4, h5 {
+h1, h2, h3, h4, h5, h6 {
     font-family: 'Bangers', cursive;
     letter-spacing: 1px;
     margin-bottom: 15px;
 }
 
 /* Copy and paste your work from yesterday here and start to refactor into flexbox */
+
+.container {
+	width: 900px;
+}
+header nav {
+}
+header nav a {
+	color: gray;
+	text-decoration: none;
+}
+header .logo{
+}
+
+.box_1{
+	padding: 70px 0;
+	font-size: 60px;
+	font-family: 'Bangers', 'cursive';
+	text-align: center;
+	vertical-align: center;
+}
+.get {
+	padding: 5px;
+	font-size: 16px;
+	text-align: center;
+	border: 1px solid black;
+}
+
+.round {
+}
+ .features {
+	 width: 445px;
+ }
+ .about {
+	 width: 425px;
+ }
+ .container2 {
+	 font-weight: bold;
+	 width: 900px;
+	 border-top: 1px solid black;
+ }
+ .mid_page {
+}
+.services {
+	width: 275px;
+}
+.product {
+	width: 275px;
+}
+.vision {
+	width: 275px;
+
+}
+.container3 {
+	width: 900px;
+	font-weight: bold;
+}
+.contact {
+	font-weight: bold;
+
+}
+
+footer {
+	font-weight: bold;
+	
+}
